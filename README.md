@@ -6,8 +6,8 @@ One might see those three titles and get a little confused, so.. Let me explain.
 <details>
  <summary><h3>My work journey</h3></summary>
 
-I've worked as a Videographer for more than 6 years and a graphic designer for over 5 years.
-<br> Last work experience I was video production specialist for almost 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. In the past I've worked on projects with a lot of clients, local and global - whether through main job or freelance. Also worked on big events like allweb.mk and allweb.al. Also, I also have completed a graphic design academy, where I was working on real-life projects, studying everything about digital.</details>
+I've worked as an on-and-off freelance Videographer and a Graphic Designer for a few years. 
+<br> Last professional work experience, I worked as a video production specialist for almost 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. In the past I've worked on projects with a lot of clients, locally and globaly - whether through my main job or freelance. Also worked on big events like allweb.mk and allweb.al. Also, I also have completed a graphic design academy, where I was working on real-life projects, studying everything about digital.</details>
 
 ### Now that that's done, let's continue with the present.
 
