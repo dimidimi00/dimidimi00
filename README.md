@@ -13,6 +13,7 @@ I've worked as a freelance Motion and Graphic Designer for a few years.
 
 ### Now that that's done, let's continue with the present.
 
+Currently I'm working on mini-projects, building my front-end portfolio with vanilla JS, while also dedicating time on studying ReactJS.
 
 ### 🧰 Languages and Tools
 
