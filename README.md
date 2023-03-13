@@ -1,5 +1,5 @@
 # You can call me Dimi!
-`Front-end developer, Video Editor, 2D Animator`
+`Front-end developer, Video Editor, Motion Designer`
 
 One might see those three titles and get a little confused, so.. Let me explain.
 
@@ -7,9 +7,9 @@ One might see those three titles and get a little confused, so.. Let me explain.
  <summary><h3>My work journey</h3></summary>
 
 I've worked as a freelance Motion and Graphic Designer for a few years. 
-<br> Last professional work experience, I worked as a video production specialist for almost 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. In the past I've worked on projects with a lot of clients, locally and globaly - whether through my main job or freelance. Also worked on big events like allweb.mk and allweb.al. Additionally, I have completed a graphic design academy, where I was working on real-life projects, studying everything about digital.</details>
+<br> Last professional work experience, I worked as a video production specialist for almost 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. In the past I've worked on projects with a lot of clients, locally and globaly - whether through my main job or freelance. Also worked on big events like allweb.mk and allweb.al. Additionally, I have completed a graphic design academy, where I was working on real-life projects, studying everything about digital. <br> <b>You can check some of my video production work in my repos!</b></details>
 
-<b>You can check some of my video production work in my repos!</b>
+<br>
 
 ### Now that that's done, let's continue with the present.
 
