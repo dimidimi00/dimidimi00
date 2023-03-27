@@ -13,7 +13,7 @@ I've worked as a freelance Motion and Graphic Designer for a few years.
 
 ### Now that that's done, let's continue with the present.
 
-Currently I'm working on mini-projects, building my front-end portfolio with vanilla JS, while also dedicating time on studying ReactJS.
+Currently I'm working as a freelance video editor & 2D motion designer, while also dedicating time on studying Javascript & Blender.
 
 ### 🧰 Languages and Tools
 
@@ -33,7 +33,7 @@ Currently I'm working on mini-projects, building my front-end portfolio with van
 #
 
 ### Currently learning
-<img align="left" alt="nodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="nodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><br />
 
 
