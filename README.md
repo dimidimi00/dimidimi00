@@ -13,7 +13,7 @@ I've been working as a freelance Motion and Graphic Designer for a few years.
 
 ### Now that that's done, let's continue with the present.
 
-Currently I'm working as a freelance video editor & 2D motion designer, while also dedicating time on studying Blender.
+Currently I'm working as a freelance video editor & 2D motion designer, while also dedicating time on studying web development.
 
 ### 🧰 Languages and Tools
 
