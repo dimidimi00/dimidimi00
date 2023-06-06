@@ -1,5 +1,5 @@
 # You can call me Dimi!
-`Video Editor, Motion Designer, Front-end developer`
+`Video Editor, Motion Designer, Web developer`
 
 One might see those three titles and get a little confused, so.. Let me explain.
 
