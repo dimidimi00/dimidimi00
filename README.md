@@ -1,5 +1,5 @@
 # You can call me Dimi!
-`Graphic & Motion Designer, Web developer`
+`Computer Geek | Graphic & Motion Designer`
 <hr>
 
 
