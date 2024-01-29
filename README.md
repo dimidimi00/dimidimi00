@@ -6,12 +6,13 @@
 <details>
  <summary><h3>My work journey</h3> (click to expand)</summary> 
 
-I've been working as a freelance Motion and Graphic Designer for a few years. 
-<br> Last professional work experience, I worked as a video production specialist for almost 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. In the past I've worked on projects with a lot of clients, locally and globaly - whether through my main job or freelance. Also worked on big events like allweb.mk and allweb.al. Additionally, I have completed a graphic design academy, where I was working on real-life projects, studying everything about digital. <br> <b>You can check some of my video production work in my repos!</b></details>
+
+<br> In my previous professional work experience, I worked as a video production specialist for more than 4 years. Planning, creating and editing videos including motion and sound design. Working on every detail including lighting setup, from concept to completion. I've worked on projects with a lot of clients, locally and globaly - whether through my main job or freelance. Also worked on big events like allweb.mk and allweb.al. Additionally, I have completed a graphic design academy, where I was working on real-life projects, studying everything about digital. <br> <b>You can check some of my video production work in my repos!</b></details>
 
 
 
-Currently I'm working as a freelance video editor & 2D motion designer, while also dedicating time on studying web development.
+Currently I'm working as a Post-Production Specialist. Creating and editing short-form videos, 2D Animations, including color grading & sound design, while dedicating my free time to continue educating myself. Just finished attending a Network Specialist training, where I was studying for CCNA and Encor.
+
 
 ### 🧰 Languages and Tools
 
