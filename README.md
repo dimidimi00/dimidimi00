@@ -1,20 +1,73 @@
-# You can call me Dimi!
-`Computer Geek | Digital Marketing Specialist | IT Solutions Specialist`
-<hr>
+<div align="center">
 
-Digital Marketer & IT Solutions Specialist with 6+ years in creative production and IT solutions. At Fibula Travel, I optimize the digital presence including AI tools, streamline workflows, and manage key platforms like Brevo, and Contentful, consistently leveraging technology to enhance marketing strategies and drive business efficiency.
+  # Dimitar Ristevski
 
-### 🧰 Languages and Tools
+  ### From 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗟𝗲𝗮𝗱 to 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀
+  
+  <p align="center">
+    <i>"The medium changes, the logic remains."</i>
+  </p>
 
-<img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-<img align="left" alt="AE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
-<img align="left" alt="PS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="AI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<br />
-<br />
+  ---
 
+  <p align="left">
+    Leveraging 7+ years of complex problem-solving in digital media to pivot into <b>SOC Analysis</b>.<br>
+    I am translating established troubleshooting logic from high-stakes media pipelines into security telemetry analysis.
+  </p>
 
-If you got any other questions, please let me know. I'd love to answer them!
+</div>
+
+### 🚀 Current Mission
+I am currently transitioning from a visual logic background to threat intelligence.
+
+| Focus | Status | Details |
+| :--- | :--- | :--- |
+| **Google Cybersecurity Cert** | 🟢 In Progress | Mastering Network Security Risks (Module 2). |
+| **Home Lab** | 🟢 Active | Raspberry Pi 5 (8GB) running Pi-hole + Unbound recursive DNS. |
+| **Web Architecture** | 🟡 Refactoring | Reviewing legacy portfolio code to learn how DOM interactions can lead to vulnerabilities. |
+
+---
+### 🛠️ The Stack
+
+**Security Operations (Loading...)**
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/BASH-IN_PROGRESS-db2777?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Python-IN_PROGRESS-db2777?style=for-the-badge&logo=python&logoColor=white" /> <br>
+  <img src="https://img.shields.io/badge/Wireshark-IN_PROGRESS-db2777?style=for-the-badge&logo=wireshark&logoColor=white" /> 
+</div>
+
+<br>
+
+**Web Logic (Established)**
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/GIT-020617?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 🧪 The Lab Setup
+My hands-on environment for testing and log analysis:
+
+* **Hardware:** Raspberry Pi 5 (8GB)
+* **Network Defense:** Pi-hole (Ad/Tracker blocking) + Unbound (Hyper-local DNS)
+* **Daily Driver:** Forcing daily CLI usage for file management & permissions to build muscle memory.
+
+---
+
+### 🌍 Languages
+* 🇺🇸 **English:** Professional
+* 🇲🇰 **Macedonian:** Native
+* 🇸🇮 **Slovenian:** Learning (A2)
+
+---
+
+<div align="center">
+  <br>
+  <a href="https://dimidimi00.github.io/">
+    <img src="https://img.shields.io/badge/View_Portfolio-030712?style=for-the-badge&logo=googlechrome&logoColor=a855f7&border=1px" />
+  </a>
+</div>
