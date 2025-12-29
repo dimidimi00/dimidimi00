@@ -2,7 +2,7 @@
 
   # Dimitar Ristevski
 
-  ### From 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗟𝗲𝗮𝗱 to 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗢𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻𝘀
+  ### From **Creative Lead** to **Versatile Technical Specialist**
   
   <p align="center">
     <i>"The medium changes, the logic remains."</i>
@@ -11,8 +11,7 @@
   ---
 
   <p align="left">
-    Leveraging 7+ years of complex problem-solving in digital media to pivot into <b>SOC Analysis</b>.<br>
-    I am translating established troubleshooting logic from high-stakes media pipelines into security telemetry analysis.
+    Versatile Technical Specialist with 7+ years of experience in managing high-stakes digital production pipelines. Proven track record in troubleshooting hardware/software issues, optimizing system workflows, and maintaining network reliability. <br><br> Transitioning into dedicated IT Infrastructure and Support roles with a strong foundation in Linux, Network Administration, and Security Best Practices. Committed to system uptime and operational excellence.
   </p>
 
 </div>
@@ -24,12 +23,12 @@ I am currently transitioning from a visual logic background to threat intelligen
 | :--- | :--- | :--- |
 | **Google Cybersecurity Cert** | 🟢 In Progress | Mastering Network Security Risks (Module 2). |
 | **Home Lab** | 🟢 Active | Raspberry Pi 5 (8GB) running Pi-hole + Unbound recursive DNS. |
-| **Web Architecture** | 🟡 Refactoring | Reviewing legacy portfolio code to learn how DOM interactions can lead to vulnerabilities. |
+| **Web Architecture** | 🔍 Auditing | Reviewing legacy projects for performance and security stability. |
 
 ---
 ### 🛠️ The Stack
 
-**Security Operations (Loading...)**
+**Systems & Infrastructure (Expanding)**
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=white" /> <br>
   <img src="https://img.shields.io/badge/BASH-IN_PROGRESS-db2777?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <br>
@@ -61,7 +60,7 @@ My hands-on environment for testing and log analysis:
 ### 🌍 Languages
 * 🇺🇸 **English:** Professional
 * 🇲🇰 **Macedonian:** Native
-* 🇸🇮 **Slovenian:** Learning (A2)
+* 🇸🇮 **Slovenian:** Learning
 
 ---
 
