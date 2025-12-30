@@ -2,7 +2,7 @@
 
   # Dimitar Ristevski
 
-  ### From **Creative Lead** to **Versatile Technical Specialist**
+  ### **Technical Solutions & Infrastructure Specialist**
   
   <p align="center">
     <i>"The medium changes, the logic remains."</i>
@@ -11,13 +11,13 @@
   ---
 
   <p align="left">
-    Versatile Technical Specialist with 7+ years of experience in managing high-stakes digital production pipelines. Proven track record in troubleshooting hardware/software issues, optimizing system workflows, and maintaining network reliability. <br><br> Transitioning into dedicated IT Infrastructure and Support roles with a strong foundation in Linux, Network Administration, and Security Best Practices. Committed to system uptime and operational excellence.
+    Versatile Technical Specialist with 7+ years of experience managing high-stakes digital pipelines. Proven track record in troubleshooting hardware/software issues and optimizing system workflows. Transitioning into dedicated IT Infrastructure and Support roles with a strong foundation in Linux, Network Administration, and Security Best Practices.
   </p>
 
 </div>
 
 ### 🚀 Current Mission
-I am currently transitioning from a visual logic background to threat intelligence.
+I am currently transitioning from a visual logic background to dedicated IT Infrastructure and Support roles.
 
 | Focus | Status | Details |
 | :--- | :--- | :--- |
