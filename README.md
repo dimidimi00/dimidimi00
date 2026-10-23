@@ -1,72 +1,40 @@
-<div align="center">
+# Dimitar Ristevski
 
-  # Dimitar Ristevski
+**Creative Technologist · AI Integrations · Motion & Video**
 
-  ### **Technical Solutions & Infrastructure Specialist**
-  
-  <p align="center">
-    <i>"The medium changes, the logic remains."</i>
-  </p>
+> Ads. Motion. AI. - Engineered to perform.
 
-  ---
+I bridge creative production and technology, building tools, integrations, and workflows that make the creative process smarter.
 
-  <p align="left">
-    Versatile Technical Specialist with 7+ years of experience managing high-stakes digital pipelines. Proven track record in troubleshooting hardware/software issues and optimizing system workflows. Transitioning into dedicated IT Infrastructure and Support roles with a strong foundation in Linux, Network Administration, and Security Best Practices.
-  </p>
+With 7+ years in video editing, I understand creative workflows from the inside. Now I'm exploring what's possible when AI, code, and creative software work together.
 
-</div>
+From connecting AI assistants with creative applications to automating repetitive tasks and building interactive web experiences, I'm interested in turning creative problems into practical technical solutions.
 
-### 🚀 Current Mission
-I am currently transitioning from a visual logic background to dedicated IT Infrastructure and Support roles.
+## What I do
 
-| Focus | Status | Details |
-| :--- | :--- | :--- |
-| **Google Cybersecurity Cert** | 🟢 In Progress | Mastering Network Security Risks (Module 2). |
-| **Home Lab** | 🟢 Active | Raspberry Pi 5 (8GB) running Pi-hole + Unbound recursive DNS. |
-| **Web Architecture** | 🔍 Auditing | Reviewing legacy projects for performance and security stability. |
+- **Creative Tooling** - Building tools and integrations that extend creative software and solve real production problems.
+- **AI Integrations** - Bringing AI assistants and models into existing applications and creative workflows.
+- **Workflow Automation** - Finding repetitive tasks and making them faster, simpler, and more efficient.
+- **Video & Motion** - 7+ years of experience in video editing, advertising, and visual storytelling.
+- **Web & Code** - JavaScript, HTML, CSS, APIs, and interactive experiences.
 
----
-### 🛠️ The Stack
+## Projects & Experiments
 
-**Systems & Infrastructure (Expanding)**
-<div align="left">
-  <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/BASH-IN_PROGRESS-db2777?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/Python-IN_PROGRESS-db2777?style=for-the-badge&logo=python&logoColor=white" /> <br>
-  <img src="https://img.shields.io/badge/Wireshark-IN_PROGRESS-db2777?style=for-the-badge&logo=wireshark&logoColor=white" /> 
-</div>
+- **AI-Powered Creative Workflows** - Exploring ways to connect AI assistants with creative applications and make existing workflows more capable.
+- **Creative Tooling & Automation** - Custom tools, integrations, and experiments designed to reduce friction in creative production.
+- **Web & Interactive Experiences** - Projects exploring the intersection of code, motion, and design.
 
-<br>
+## My approach
 
-**Web Logic (Established)**
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/GIT-020617?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+I don't code just to code. I start with a creative or workflow problem, explore the available tools, and build toward a practical solution. AI-assisted development helps me prototype ideas, test possibilities, and bring useful tools to life.
+
+My goal is to shape better creative workflows by combining hands-on production experience with emerging technology.
+
+## Elsewhere
+
+🌐 [Portfolio - dristevski.com](https://dristevski.com)  
+✉️ [contact@dristevski.com](mailto:contact@dristevski.com)
 
 ---
 
-### 🧪 The Lab Setup
-My hands-on environment for testing and log analysis:
-
-* **Hardware:** Raspberry Pi 5 (8GB)
-* **Network Defense:** Pi-hole (Ad/Tracker blocking) + Unbound (Hyper-local DNS)
-* **Daily Driver:** Forcing daily CLI usage for file management & permissions to build muscle memory.
-
----
-
-### 🌍 Languages
-* 🇺🇸 **English:** Professional
-* 🇲🇰 **Macedonian:** Native
-* 🇸🇮 **Slovenian:** Learning
-
----
-
-<div align="center">
-  <br>
-  <a href="https://dimidimi00.github.io/">
-    <img src="https://img.shields.io/badge/View_Portfolio-030712?style=for-the-badge&logo=googlechrome&logoColor=a855f7&border=1px" />
-  </a>
-</div>
+*Creative problems. Technical solutions.*
